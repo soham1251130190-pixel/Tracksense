@@ -75,7 +75,7 @@ const MapManager = (() => {
             RouteData.points[0],
             'vehicle-dot vehicle-dot-green',
             false,
-            'TrackSense AI',
+            'lighthouse AI',
             'label-green'
         );
         aiMarker.setOpacity(0);
